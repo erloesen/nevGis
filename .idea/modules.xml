@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/nevGis.iml" filepath="$PROJECT_DIR$/.idea/nevGis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nevWeb/.idea/nevWeb.iml" filepath="$PROJECT_DIR$/../nevWeb/.idea/nevWeb.iml" />
     </modules>
   </component>
 </project>
